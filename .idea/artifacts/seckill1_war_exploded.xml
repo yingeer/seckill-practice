@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="seckill1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/seckill1_war_exploded</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/web/WEB-INF" />
+    </root>
+  </artifact>
+</component>
